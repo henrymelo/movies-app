@@ -13,6 +13,7 @@ def main_pods
   pod 'SkeletonView', '1.29.2'
   pod 'SnapKit', '5.0.1'
   pod 'SwiftLint', '0.43.1'
+  pod 'UIApp', :path => '../UIApp/'
 end
 
 def restapi_pods
