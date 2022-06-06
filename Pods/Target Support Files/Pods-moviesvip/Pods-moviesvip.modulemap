@@ -1,0 +1,6 @@
+framework module Pods_moviesvip {
+  umbrella header "Pods-moviesvip-umbrella.h"
+
+  export *
+  module * { export * }
+}
